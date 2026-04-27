@@ -15,9 +15,9 @@ preferred-citation:
   authors:
     - family-names: "Touboul Jacques"
       given-names: "Touboul Jacques"
-  journal: "Statistics and Computing"
+  journal: "---"
   year: 2026
-  doi: "[to be inserted]"
+  doi: "https://doi.org/10.5281/zenodo.19821616"
 references:
   - type: report
     title: "Projection-Pursuit Nearest Neighbors: companion technical report"
@@ -25,4 +25,4 @@ references:
       - family-names: "Touboul Jacques"
         given-names: "Touboul Jacques"
     year: 2026
-    doi: "[Zenodo DOI to be inserted]"
+    doi: "https://doi.org/10.5281/zenodo.19821616"

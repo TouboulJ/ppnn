@@ -13,7 +13,7 @@ This repository accompanies the paper:
 > for High-Dimensional Supervised Learning*, 2026.
 
 The companion **technical report** (full proofs, extended simulations, robustness
-analysis) is archived on Zenodo: [DOI to be inserted].
+analysis) is archived on Zenodo: https://doi.org/10.5281/zenodo.19821616.
 
 ## Installation
 
@@ -108,7 +108,7 @@ If you use this code, please cite:
   title  = {Projection-Pursuit Nearest Neighbors: companion technical report},
   author = {Touboul Jacques},
   year   = {2026},
-  doi    = {[Zenodo DOI to be inserted]}
+  doi    = {https://doi.org/10.5281/zenodo.19821616}
 }
 ```
 
