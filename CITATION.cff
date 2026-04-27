@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the paper."
+title: "ppnn: Projection-Pursuit Nearest Neighbors"
+authors:
+  - family-names: "Touboul Jacques"
+    given-names: "Touboul Jacques"
+    orcid: "https://orcid.org/0009-0007-7041-745X"
+version: 0.1.0
+date-released: 2026-04-26
+license: MIT
+repository-code: "https://github.com/TouboulJ/ppnn"
+preferred-citation:
+  type: article
+  title: "Projection-Pursuit Nearest Neighbors: Distributional Neighborhoods for High-Dimensional Supervised Learning"
+  authors:
+    - family-names: "Touboul Jacques"
+      given-names: "Touboul Jacques"
+  journal: "Statistics and Computing"
+  year: 2026
+  doi: "[to be inserted]"
+references:
+  - type: report
+    title: "Projection-Pursuit Nearest Neighbors: companion technical report"
+    authors:
+      - family-names: "Touboul Jacques"
+        given-names: "Touboul Jacques"
+    year: 2026
+    doi: "[Zenodo DOI to be inserted]"
