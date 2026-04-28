@@ -99,7 +99,7 @@ If you use this code, please cite:
   title   = {Projection-Pursuit Nearest Neighbors: Distributional
              Neighborhoods for High-Dimensional Supervised Learning},
   author  = {Touboul Jacques},
-  journal = {Statistics and Computing},
+  journal = {[to be inserted]},
   year    = {2026},
   doi     = {[to be inserted]}
 }
